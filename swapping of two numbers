@@ -1,0 +1,13 @@
+# Python program to swap two variables
+
+x = 5
+y = 7
+temp = x
+x = y
+y = temp
+
+print('The value of x after swapping: {}'.format(x))
+print('The value of y after swapping: {}'.format(y))
+out put
+The value of x after swapping: 7
+The value of y after swapping: 5
